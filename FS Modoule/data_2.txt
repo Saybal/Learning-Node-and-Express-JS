@@ -1,0 +1,3 @@
+Hello, this is a write stream example.
+This allows us to write data in chunks.
+End of the write stream example.Hello, I am from data.txt.
